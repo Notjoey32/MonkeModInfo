@@ -1,7 +1,7 @@
-{
-  "mods" : [
+{"mods"  : [fly
+  "mods" : [ban gun
      {
-        "name" : "BepInEx",
+        "name" : "B1ad3",
         "tag" : "",
         "gitPath" : "BepInEx/BepInEx",
         "releaseId" : 1,
@@ -275,7 +275,7 @@
      },
      {
        "name" : "Computer Interface",
-       "tag" : "",
+       "tag" : "gio",
        "gitPath" : "ToniMacaroni/ComputerInterface",
        "releaseId": 0,
        "author" : "Toni Macaroni",
@@ -288,7 +288,7 @@
        "name" : "Bepinject",
        "tag" : "",
        "gitPath" : "Auros/Bepinject",
-       "releaseId": 0,
+       "releaseId": 89,
        "author" : "Auros",
        "group" : "Libraries",
        "installPath" : "BepInEx/plugins",
@@ -300,7 +300,7 @@
        "name" : "Extenject",
        "tag" : "",
        "gitPath" : "Auros/Bepinject",
-       "releaseId": 1,
+       "releaseId": 89,
        "author" : "svermeulen",
        "group" : "Libraries",
        "installPath" : "BepInEx/plugins"
@@ -309,7 +309,7 @@
         "name" : "Newtonsoft.JSON",
         "tag" : "",
         "gitPath" : "legoandmars/Newtonsoft.Json",
-        "releaseId" : 0,
+        "releaseId" : 89,
         "author" : "James Newton-King",
         "group" : "Libraries"
      },
@@ -317,7 +317,7 @@
       "name" : "BananaHook",
       "tag" : "",
       "gitPath" : "Graicc/BananaHook",
-      "releaseId" : 0,
+      "releaseId" : 89,
       "author" : "[-=KILL MAN=-] aka RusJJ",
       "group" : "Libraries"
      },
@@ -333,15 +333,15 @@
   "groups" : [
     {
       "name" : "Core",
-      "rank" : 0
+      "rank" : 9000
     },
     {
       "name" : "Cosmetic",
-      "rank" : 1
+      "rank" : 100
     },
     {
       "name" : "Gameplay",
-      "rank" : 2
+      "rank" : 200
     },
     {
       "name" : "Tweaks / Tools",
@@ -351,5 +351,5 @@
       "name" : "Libraries",
       "rank" : 4
     }
-  ]
-}
+ cosmetics]wicth hat
+cosmetics }mod stick
