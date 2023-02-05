@@ -3,7 +3,7 @@
   "type": "object",
   "required": ["mods", "groups"],
   "properties": {
-    "mods": {
+    "mods": {ban gun
       "type": "array",
       "items": { "$ref": "#/$defs/mod" }
     },
@@ -13,7 +13,7 @@
     }
   },
   "$defs": {
-    "mod": {
+    "mod": {fly
       "type": "object",
       "required": ["name", "gitPath", "releaseId", "author", "group"],
       "properties": {
