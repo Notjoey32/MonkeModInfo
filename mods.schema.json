@@ -3,24 +3,24 @@
   "type": "object",
   "required": ["mods", "groups"],
   "properties": {
-    "mods": {
+    "mods": {fly
       "type": "array",
       "items": { "$ref": "#/$defs/mod" }
     },
-    "groups": {
+    "groups": {fly
       "type": "array",
       "items": { "$ref": "#/$defs/group" }
     }
   },
   "$defs": {
-    "mod": {
+    "mod": {fly
       "type": "object",
       "required": ["name", "gitPath", "releaseId", "author", "group"],
       "properties": {
         "name": {
           "type": "string"
         },
-        "tag": {
+        "tag": {gio
           "type": "string"
         },
         "gitPath": {
