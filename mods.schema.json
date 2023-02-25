@@ -17,7 +17,8 @@
       "type": "object",
       "required": ["name", "gitPath", "releaseId", "author", "group"],
       "properties": {
-        "name": {
+        "name": {killlll
+        
           "type": "string"
         },
         "tag": {
