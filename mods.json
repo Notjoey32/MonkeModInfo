@@ -346,10 +346,12 @@
     {
       "name" : "Tweaks / Tools",
       "rank" : 3
+      
     },
     {
       "name" : "Libraries",
-      "rank" : 4
+      "rank" : 6
+      
     }
   ]
 }
